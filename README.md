@@ -24,7 +24,4 @@ A modern **frontend landing page** built using **HTML, CSS, and JavaScript**, fe
 - **GSAP** – Text & motion animations  
 - **Three.js** – WebGL support for advanced effects  
 
----
-
-## 📂 Project Structure
 
